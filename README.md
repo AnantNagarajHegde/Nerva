@@ -20,7 +20,6 @@ A **Random Forest model** was trained for classification and later converted int
 ---
 
 ## 🧩 Model Implementation & Conversion Notebook
-🔗 [View Full Jupyter Notebook (Google Colab)](https://colab.research.google.com/drive/YOUR_LINK_HERE)
 
 The notebook covers:
 - Data preprocessing  
