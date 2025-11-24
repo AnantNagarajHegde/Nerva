@@ -1,4 +1,4 @@
-# 🧠 Stress Detection using TinyML on ESP32
+# 🧠 Emotion Detection using TinyML on ESP32
 
 This project detects human stress levels using physiological sensor data (e.g., ECG, EDA, Heart Rate) and deploys a trained machine learning model on an ESP32 microcontroller using TinyML.
 
